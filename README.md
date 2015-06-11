@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/codeforbirmingham/open-disclosure.png?label=ready&title=Ready)](https://waffle.io/codeforbirmingham/open-disclosure)
 
 [Open-Disclosure](http://www.codeforbirmingham.org/Open-Disclosure/#/)
+
+[Another Link to App] (http://www.codeforbirmingham.org/Open-Disclosure/)
 ===============
 
 The goal of the Open Disclosure project is to provide an easy to use web interface for Alabama's publicly available campaign finance data. This will empower citizens to better understand the flow of money in their
